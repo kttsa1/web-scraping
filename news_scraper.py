@@ -18,3 +18,4 @@ except Exception as e:
     print(error_type, 'Line:', error_info.tb_lineno)
     page.status_code
     # continue
+    #this is a test
